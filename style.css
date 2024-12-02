@@ -1,0 +1,139 @@
+#h{ 
+    background-color: rgba(31,41,55,255);
+    height: 550px;
+    color: white;
+    font-size: 30px;
+}
+#l{
+    margin-left: 250px;
+}
+#l2{
+    font-size: 20px;
+    margin-left: 750px;
+}
+#img{
+    float: right;
+    width: 500px;
+    height: 350px;
+    margin-right: 450px;
+    margin-left: 100px;
+}
+p{
+    font-size: larger;
+    margin-left: 300px;
+}
+.h1{
+    margin-left: 300px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: -10px;
+}
+
+button{
+    background-color: rgb(63,132,241);
+    font-size: 20px;
+    color:white;
+}
+#h2{
+    background-color: white;
+    height:500px;
+}
+
+#h2{
+    background-color: white;
+    height: 500px;
+    color: black;
+    font-size: 25px;
+    margin-top: 20px;
+}
+#r{
+    margin-top: 20px;
+    margin-left: 300px;
+    text-align: center;
+}
+.f{
+    display: flex;
+    flex-direction: row;
+    column-gap: 100px;
+    justify-content: center;
+}
+.b{
+    border: 5px solid rgb(63,132,241);
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+}
+
+.b2{
+    border: 5px solid white;
+    width: 150px;
+    height: 50px;
+    border-radius: 15px;
+    font-size: 15px;
+    text-align: center;
+}
+
+#h3{
+    background-color: rgb(179, 174, 174);
+    height: 400px;
+    color: black;
+    font-size: 25px;
+}
+#q{
+    display: flex;
+    text-align: center;
+    font-size: 30px;
+    height: 50px;
+    width:800px;
+    align-items: center;
+    margin: 120px;
+    margin-left: 600px;
+}
+#a{
+    display: flex;
+    width: 600px;
+    margin-top: -60px;
+    margin-left: 1100px;
+    align-items: center;
+    text-align: end;
+}
+#h4{
+    display: flex;
+    background-color: white;
+    height: 300px;
+}
+#bb{
+    display: flex;
+    align-items: center;
+    background-color: rgb(63,132,241);
+    color: white;
+    height: 150px;
+    width: 1000px; 
+    border-radius: 20px;
+    margin-top: 50px;
+    margin-left: 500px;
+}
+#but{
+    float: right;
+    border: 2px solid white;
+    margin-top: 5px;
+    border-radius: 10px;
+}
+#bb1{
+    width: 800px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+#h5{
+    display: flex;
+    background-color: rgba(31,41,55,255);
+    align-items: center;
+    height: 100px;
+    color: white;
+    font-size: 20px;
+    text-align: center;
+    padding-left: 880px;
+}
